@@ -144,7 +144,7 @@ a {
     max-width: 1254px;
     padding-left: 15px;
     padding-right: 15px;
-    margin: 100 auto 135px;
+    margin: 10 auto 135px;
 }
 
 .tm-footer {
@@ -537,7 +537,7 @@ address {
 
 @media (max-width: 1264px) {
     .tm-main-nav ul { 
-        max-width: 976px;
+        max-width: 1976px;
     }
 }
 
