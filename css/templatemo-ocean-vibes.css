@@ -74,7 +74,7 @@ a {
     transition: all 0.3s ease;
 }
 
-.tm-mt-0 { margin-top: 0; }
+.tm-mt-0 { margin-top: 10px; }
 
 .tm-site-header {
     padding: 60px 70px 30px;
