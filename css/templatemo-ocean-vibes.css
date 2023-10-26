@@ -42,8 +42,8 @@ button.tm-btn {
     background-color: #49b4e9;
 }
 
-h1 { font-size: 3rem; 
-   line-height: 120%;
+h1 { font-size: 2rem; 
+   line-height: 100%;
    }
 em { display: block; }
 div { box-sizing: border-box;}
